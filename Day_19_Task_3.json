@@ -1,0 +1,7 @@
+{
+    "method": "Refined CLAHE",
+    "clip_limit": 4.0,
+    "grid_size": "8x8",
+    "validation_psnr": 11.467432435500069,
+    "validation_ssim": 0.3843463392641553
+}
