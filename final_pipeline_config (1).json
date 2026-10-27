@@ -1,0 +1,22 @@
+{
+    "Final_Model": "CNN",
+    "Classical_Reference": "Refined CLAHE-3",
+    "Dataset": "Dataset V1",
+    "Total_Pairs": 312,
+    "Train": 218,
+    "Validation": 47,
+    "Test": 47,
+    "Image_Size": "256x256",
+    "Channels": 3,
+    "Evaluation_Metrics": [
+        "PSNR",
+        "SSIM",
+        "Edge F1"
+    ],
+    "CNN_PSNR": 14.4692,
+    "CNN_SSIM": 0.5619,
+    "CNN_Edge_F1": 0.0259,
+    "CLAHE3_PSNR": 11.4,
+    "CLAHE3_SSIM": 0.3995,
+    "CLAHE3_Edge_F1": 0.0688
+}
